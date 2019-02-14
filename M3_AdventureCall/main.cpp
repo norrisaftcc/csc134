@@ -4,6 +4,7 @@ using namespace std;
 
 /*
 Adventure (function) call version 1.1
+Last updated 2/14/19
 
 The goal is to escape the garden.
 
